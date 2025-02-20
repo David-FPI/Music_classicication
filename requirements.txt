@@ -1,1 +1,11 @@
-streamlit
+rembg==2.0.50
+Pillow==9.3.0
+streamlit==1.21.0
+numba==0.57
+numpy==1.23.5
+pytube==15.0.0
+librosa==0.10.1
+matplotlib==3.8.2
+tensorflow==2.15.0
+keras==2.15.0
+pydub==0.25.1
